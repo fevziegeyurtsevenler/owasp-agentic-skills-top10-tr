@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/banner.svg" alt="owasp-agentic-skills-top10-tr" width="100%"></p>
+
 # owasp-agentic-skills-top10-tr
 
 > **OWASP Agentic Skills Top 10** çerçevesinin Türkçe açıklamalı rehberi. Her madde için Türkçe açıklama, somut örnek senaryo ve azaltım önerileri; ayrıca **OWASP LLM Top 10 (2025)** ve **MITRE ATLAS** eşlemeleri.
