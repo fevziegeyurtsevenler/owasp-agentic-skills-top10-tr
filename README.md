@@ -461,3 +461,10 @@ esas alın.
 ---
 
 <sub>Türkçe açıklamalı rehber · Fevzi Ege Yurtsevenler ([@fevziegeyurtsevenler](https://github.com/fevziegeyurtsevenler)) · AltaySec · OWASP GenAI merged contributor · Gayriresmî topluluk çevirisi.</sub>
+
+---
+
+## İlgili AltaySec Kaynakları
+
+- 📖 [OWASP Agentic Top 10 (2026) Türkçe: ASI01–ASI10 Rehberi](https://altaysec.com.tr/arastirmalar/owasp-agentic-top10-asi-turkce) — konunun derinlemesine Türkçe analizi
+- 🌐 [AltaySec Araştırmalar](https://altaysec.com.tr/arastirmalar/) — Türkçe yapay zekâ güvenliği yazıları
